@@ -1,6 +1,4 @@
 
-Run
-Copy code
 # PayPal Login Form Replica
 
 This project is a simple HTML template that resembles a login form similar to PayPal's. It is designed for educational purposes to demonstrate how to create a basic login interface using HTML and CSS.
